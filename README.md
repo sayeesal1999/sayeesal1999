@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Sai Salunkhe  
 🎯 A Strategic Data Analyst & Storyteller from the United States  
-
-
 📊 Turning data into insights. Automating the boring stuff.  
 🎓 MS in Business Analytics | Rutgers University  
 🧠 Passionate about AI, NLP, and building data-driven solutions that scale  
